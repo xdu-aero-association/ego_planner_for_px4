@@ -1,6 +1,6 @@
 [submodule "ego-planner"]
     path = ego-planner
-    url = https://gitee.com/iszhouxin/ego-planner.git
+    url = https://github.com/ZJU-FAST-Lab/ego-planner.git
 [submodule "ROS-TurtleBot-PID"]
     path = ROS-TurtleBot-PID
     url = https://github.com/kadupitiya/ROS-TurtleBot-PID.git
