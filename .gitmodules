@@ -1,0 +1,9 @@
+[submodule "ego-planner"]
+    path = ego-planner
+    url = https://gitee.com/iszhouxin/ego-planner.git
+[submodule "ROS-TurtleBot-PID"]
+    path = ROS-TurtleBot-PID
+    url = https://github.com/kadupitiya/ROS-TurtleBot-PID.git
+[submodule "px4_com"]
+    path = px4_com
+    url = https://github.com/dssdyx/px4_com_dyx.git
